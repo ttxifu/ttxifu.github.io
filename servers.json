@@ -1,10 +1,6 @@
 {
   "servers": [
     {
-      "name": "SelfHost",
-      "address": "https://anisette-v3-server-plwg.onrender.com"
-    },
-	{
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
@@ -25,20 +21,12 @@
       "address": "https://ani.npeg.us"
     },
     {
-      "name": "Stern",
-      "address": "http://ani.sternserv.xyz"
-    },
-    {
       "name": "Macley",
       "address": "http://5.249.163.88:6969"
     },
     {
-      "name": "WesleyBryie",
-      "address": "https://ani.wesbryie.com"
-    },
-    {
-      "name": "SeasiDev",
-      "address": "https://anisette.seasi.dev"
+      "name": "WE. Studio",
+      "address": "https://anisette.wedotstud.io"
     },
     {
       "name": "SteX",
@@ -49,12 +37,25 @@
       "address": "https://ani.owoellen.rocks"
     },
     {
+      "name": "iDH Server",
+      "address": "https://ani.idevicehacked.com"
+    },
+    {
+      "name": "neoarz",
+      "address": "https://ani.neoarz.xyz"
+    },
+    {
       "name": "pythonplayer123",
       "address": "https://ani3server.fly.dev"
     },
     {
-      "name": "iDH Server",
-      "address": "https://ani.idevicehacked.com"
+      "name": "Jayden's Server",
+      "address": "https://ani.jaydenha.uk"
+    },
+    {
+      "name": "crystall1nedev's server",
+      "address": "https://anisette.crystall1ne.dev"
     }
-  ]
+  ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
 }
